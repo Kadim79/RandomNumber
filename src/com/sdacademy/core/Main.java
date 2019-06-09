@@ -28,6 +28,8 @@ public class Main {
                     System.out.println("Numarul tastat este cel ales Random " + n);
                     System.out.println("Ai reusit din " + counter + " incercari");
                     System.out.println("Felicitari!");
+                    System.out.println("Felicitari22222!");
+
 
 
                 }
